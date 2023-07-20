@@ -1,0 +1,38 @@
+<!-- livebook:{"app_settings":{"access_type":"public","auto_shutdown_ms":5000,"multi_session":true,"show_existing_sessions":false,"show_source":true,"slug":"madlib"}} -->
+
+# MadLib
+
+```elixir
+Mix.install([
+  {:kino, "~> 0.10.0"}
+])
+```
+
+## MadLib
+
+```elixir
+defmodule MadLib do
+  def run() do
+    noun = get_input("Enter a noun: ")
+    verb = get_input("Enter a verb: ")
+    adjective = get_input("Enter an adjective: ")
+    adverb = get_input("Enter an adverb: ")
+
+    Kino.Text.new("Do you #{verb} your #{adjective} #{noun} #{adverb}? That's hilarious!")
+  end
+
+  defp get_input(prompt) do
+    prompt
+    |> Kino.Input.text()
+    |> Kino.render()
+    |> Kino.Input.read()
+    |> interrupt_if_empty()
+  end
+
+  defp interrupt_if_empty(""), do: Kino.interrupt!(:normal, "Enter next value")
+
+  defp interrupt_if_empty(value), do: value
+end
+
+MadLib.run()
+```
