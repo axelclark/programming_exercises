@@ -16,9 +16,7 @@ let () =
     ]
   in
 
-  let responses = List.map prompt_for_input prompts in
-
-  match responses with
+  match List.map prompt_for_input prompts with
   | [ noun; verb; adjective; adverb ] ->
       Printf.printf "Do you %s your %s %s %s? That's hilarious!\n" verb
         adjective noun adverb
