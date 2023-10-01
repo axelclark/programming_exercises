@@ -1,2 +1,14 @@
 # Generated on crash by the VM
 erl_crash.dump
+
+# OCaml compilation artifacts
+*.cmi
+*.cmo
+*.cma
+*.cmx
+*.cmxa
+*.a
+*.o
+*.cmt
+*.cmti
+*.annot
