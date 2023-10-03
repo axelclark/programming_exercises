@@ -1,4 +1,3 @@
-(*ocamlfind ocamlopt -o retirement_calculator -package calendar -linkpkg retirement_calculator.ml*)
 open CalendarLib
 
 let current_year () =
