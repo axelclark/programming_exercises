@@ -1,0 +1,15 @@
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\bin\Debug\net7.0\PrintingQuotes.exe
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\bin\Debug\net7.0\PrintingQuotes.deps.json
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\bin\Debug\net7.0\PrintingQuotes.runtimeconfig.json
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\bin\Debug\net7.0\PrintingQuotes.dll
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\bin\Debug\net7.0\PrintingQuotes.pdb
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\obj\Debug\net7.0\PrintingQuotes.csproj.AssemblyReference.cache
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\obj\Debug\net7.0\PrintingQuotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\obj\Debug\net7.0\PrintingQuotes.AssemblyInfoInputs.cache
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\obj\Debug\net7.0\PrintingQuotes.AssemblyInfo.cs
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\obj\Debug\net7.0\PrintingQuotes.csproj.CoreCompileInputs.cache
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\obj\Debug\net7.0\PrintingQuotes.dll
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\obj\Debug\net7.0\refint\PrintingQuotes.dll
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\obj\Debug\net7.0\PrintingQuotes.pdb
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\obj\Debug\net7.0\PrintingQuotes.genruntimeconfig.cache
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\PrintingQuotes\obj\Debug\net7.0\ref\PrintingQuotes.dll

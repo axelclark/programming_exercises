@@ -1,0 +1,15 @@
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\bin\Debug\net7.0\MadLib.exe
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\bin\Debug\net7.0\MadLib.deps.json
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\bin\Debug\net7.0\MadLib.runtimeconfig.json
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\bin\Debug\net7.0\MadLib.dll
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\bin\Debug\net7.0\MadLib.pdb
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\obj\Debug\net7.0\MadLib.csproj.AssemblyReference.cache
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\obj\Debug\net7.0\MadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\obj\Debug\net7.0\MadLib.AssemblyInfoInputs.cache
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\obj\Debug\net7.0\MadLib.AssemblyInfo.cs
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\obj\Debug\net7.0\MadLib.csproj.CoreCompileInputs.cache
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\obj\Debug\net7.0\MadLib.dll
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\obj\Debug\net7.0\refint\MadLib.dll
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\obj\Debug\net7.0\MadLib.pdb
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\obj\Debug\net7.0\MadLib.genruntimeconfig.cache
+C:\Users\clark\source\ProgrammingExercises\programming_exercises\csharp\MadLib\obj\Debug\net7.0\ref\MadLib.dll
