@@ -13,7 +13,9 @@ erl_crash.dump
 *.cmti
 *.annot
 
+_build
+
 .DS_Store
 
-[Bb]in/
+csharp/**/[Bb]in/
 [Oo]bj/
