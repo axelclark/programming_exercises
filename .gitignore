@@ -14,3 +14,6 @@ erl_crash.dump
 *.annot
 
 .DS_Store
+
+[Bb]in/
+[Oo]bj/
