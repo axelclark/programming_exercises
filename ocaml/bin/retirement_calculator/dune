@@ -1,3 +1,0 @@
-(executable
- (name retirement_calculator)
- (libraries calendar))
