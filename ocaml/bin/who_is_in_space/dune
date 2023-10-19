@@ -1,0 +1,3 @@
+(executable
+ (name who_is_in_space)
+ (libraries yojson cohttp-lwt-unix cohttp-async))
