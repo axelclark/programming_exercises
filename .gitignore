@@ -19,3 +19,6 @@ _build
 
 csharp/**/[Bb]in/
 [Oo]bj/
+
+*/node_modules/
+*/dist/
